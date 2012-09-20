@@ -44,3 +44,9 @@ Google这个20%自由时间的政策在软件工程界算是家喻户晓了。�
 如果不存在对个人实验的良好尊重，公司还弥漫着永无止境地追赶项目任务清单下一项工作的氛围，那么上面那些措施永远都不会奏效。作为一个公司，或者作为一名员工，你都必须相信，最终要的创意和进展随时有可能在公司的每一个员工上诞生。这是一个自低向上的过程，一个完全的总体规划中扣出来那一点时间是远远不够的。
 
 花时间做你想做的事可以让事情做的更好，这已经得到了一些正式的认可。上面提到的各种政策或是方法，它们不仅仅是被默许的，甚至是具有鼓励性质的。看来为了达到**让工作更不像工作**这个目标，我们还有很长的路要走。
+
+**原文**：[Today is Goof Off at Work Day](http://www.codinghorror.com/blog/2012/08/today-is-goof-off-at-work-day.html)
+
+**原作者**：[Jeff Atwood](http://en.wikipedia.org/wiki/Jeff_Atwood)是一名软件开发者，作家，著名博客[Coding Honor](http://www.codinghorror.com/blog/)的主编。和Joel Spolsky一起，两个人组建了顶顶大名的问答网站系列[Stack Exchange](http://stackexchange.com/)。
+
+**译者**：李诗剑，上海交通大学学僧，= =
