@@ -8,9 +8,9 @@ Google这个20 Percent Time政策在软件工程界算是家喻户晓了。然�
 
 历史上，关于HP的版本并没有很多的记载；当我真正得到一点信息的时候才发现，它通常被认为是一个“惯例”，而非明确的“政策”。Robert X. Cringely提供了[更多细节](http://www.cringely.com/2011/08/19/losing-the-hp-way/)：
 
-> 发明这个方法的公司不是Google，而是HP。
+> 发明这个方法的公司不是Google，而是HP。HP的方法或许更加正式，因为他规定了那10%的时间限制在周五的午餐后。你完全可以想象得出这样一番景象，一个周五的下午，在Palo Alto每一个工程师琢磨着一些狂野的点子。这个系统的另一部分在于，他们可以进入被他们称作“实验商店”的地方 —— 任何他们可以用来干活的东西，不管是显微镜，磁控管，或者是一桶丙酮，都可以在周五的下午不过问任何人就从HP的仓库中带走。这种方法催生出一系列激动人心的创新点，随后它们被转化成，包括他们那些打印机在内的最成功的产品。
 
-或许真的是HP发明了它，因为他们从1939年的时候就开始实行这个计划了。比如，Dave Raggett， 就是在他HP工作期间的[10% time里为发明HTML做出了杰出的贡献](http://en.wikipedia.org/wiki/Dave_Raggett)。
+或许真的是HP发明了这种方法，因为他们从1939年的时候就开始实行类似的计划了。比如，Dave Raggett， 就是在他HP工作期间的[10% time里为发明HTML做出了杰出的贡献](http://en.wikipedia.org/wiki/Dave_Raggett)。
 
 尽管这个方法早于Google，但是Google更多的是以一种实际的策略去验证此方法的有效性，并且在技术圈子中无人可及的推广了它。奇怪的是，我在现在的[Google Jobs主页](http://www.google.com/about/jobs/lifeatgoogle/)上[找不到](https://www.google.com/search?q=site%3Awww.google.com+%2220-percent+time%22)一处提及这个20% Time福利的信息，但是这的的确确是Google文化中不可或缺的一部分。这些都是非常好的例子：Google百分之二十非常有名的项目，包括[GMail](http://paulbuchheit.blogspot.com/2009/01/communicating-with-code.html)，Google News，Google Talk，还有AdSense。正如前员工Marissa Meyer所说，[几乎一半](http://en.wikipedia.org/wiki/Google#Innovation_Time_Off)Google的产品来源于那20%的时间。
 
