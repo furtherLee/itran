@@ -1,3 +1,9 @@
+---
+layout: post
+title: 你不知道的那个20%学说 
+category: community
+---
+
 如果你有幸成为Google的雇员，那么恭喜你，你只需要用80%的规定时间来做本职工作。剩下那20%的时间，只要你觉得对Google有益的事情都可以做。至少，理论上都是可以的。
 
 Google这个20%自由时间的政策在软件工程界算是家喻户晓了。然而被大家忽略的是，这个政策实际上可以追溯到1948年的3M。
@@ -15,14 +21,14 @@ Google这个20%自由时间的政策在软件工程界算是家喻户晓了。�
 在HP，3M，Google，他们“许多”最受欢迎的产品正是诞生在**他们给员工自由支配的短暂时间**中。这意味着什么？我们应该在工作时间多偷懒来验证我们自己的想法？这就是[百分之二十定律](http://www.amazon.com/exec/obidos/ASIN/0062003232/codihorr-20)这本书所探讨的话题。
 
 <a href="http://www.amazon.com/exec/obidos/ASIN/0062003232/codihorr-20">
-	<img src=<img alt="The 20% Doctrine: How tinkering, goofing off, and breaking the rules at work drive success in business" title="The 20% Doctrine: How tinkering, goofing off, and breaking the rules at work drive success in business" src="http://www.codinghorror.com/.a/6a0120a85dcdae970b017743d719a4970d-800wi" width="300" height="456">
+	<img alt="The 20% Doctrine: How tinkering, goofing off, and breaking the rules at work drive success in business" title="The 20% Doctrine: How tinkering, goofing off, and breaking the rules at work drive success in business" src="http://www.codinghorror.com/.a/6a0120a85dcdae970b017743d719a4970d-800wi" width="300" height="456">
 </a>
 
 和20%自由时间紧密相关的是**Hack Day**。Hack Days就是从日程表中切出整整24小时的时间，用来鼓励大型团队在这段时间里面协同工作（或者是友谊比赛）。2005年Chad Dickerson在Yahoo首次举办了[这个活动](http://blog.chaddickerson.com/2012/04/18/the-20-percent-doctrine/)。 
 
 > 上周五，借助于公司内松散组织起来的人们，我在Yahoo!举办了首次内部Hack Day活动。把这一天冠名为“Hack”的意义实际上为了借助于Hack文化来拉人，但是公认的事实是我们正在试图修正一个运转糟糕的系统。这个想法非常简单：**我们部门所有的工程师都在这一天去创造他们内心渴望构建的东西。**唯一的规矩就是，你必需在这24小时里面弄出个东西，在结束的时候给大家看看。活动最基本的结构受到了那些小创业公司的启发，但是从来没人能够把它在一个完善的公司里面玩地这么大。
 
-> 显而易见，第一次Yahoo! Hack Day取得了巨大成功。在一个对创新苦苦挣扎的公司里，差不多有70个产品原型在24小时内原地蹦了出来，并且在一个充满了欢呼和尖叫的环境中展示给大家。身着T恤、睡眼惺忪的程序员在周五干上一通宵，仅仅为了向人们展示一个原型，没有任何原因，就是因为他的内心所想。在一本关于开源软件的精品书《大教堂与市集》（*The Cathedral and the Bazaar*）中，作者Eric Raymond写道：“每一个绝妙的软件都是程序员挠痒痒的时候想到的。“显然，Yahoo!有许多经常挠痒痒的程序员，但是正是Hack Day让他们自然的一起挠了起来。
+> 显而易见，第一次Yahoo! Hack Day取得了巨大成功。在一个对创新苦苦挣扎的公司里，差不多有70个产品原型在24小时内原地蹦了出来，并且在一个充满了欢呼和尖叫的环境中展示给大家。身着T恤、睡眼惺忪的程序员在周五干上一通宵，仅仅为了向人们展示一个原型，没有任何原因，就是因为他的内心所想。在一本关于开源软件的精品书《大教堂与市集》（*The Cathedral and the Bazaar*）中，作者Eric Raymond写道：“每一个绝妙的软件都是程序员挠痒痒的时候想到的。“显然，Yahoo!有许多经常挠痒痒的程序员，但是正是Hack Day让他们自然的一起挠到痒处。
 
 这个活动的Atlassian版本，是每三个月一次的[ShipIt Day](http://www.atlassian.com/shipit-day)。它也可以追溯到2005年。有趣的是，他们试图模仿Google的20%自由时间，但却得到了[截然相反的结果](http://blogs.atlassian.com/2009/02/atlassians_20_time_a_year_in_review/)。
 
