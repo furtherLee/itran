@@ -1,70 +1,71 @@
-iTuring: What have inspired you to write a book about Turing (the Annotated Turing)? Are there any stories behind the scene? Is there any connection between this book and your other works?
+**图灵社区**: 是什么促使您写一本关于图灵的书？这之后有什么与其相关的故事么？这本书和您其他的工作有什么联系么？
 
-CP: When I was writing “Code” I became very interested in the early history of computing and the mathematical foundations of computing. I tried to read Alan Turing’s paper on computability, but I found it very difficult. At one point I thought “This paper is so important, somebody should write a book about it.” That’s a very dangerous thought! Who else will write this book if not me?
+> **CP**：编写“编码”的时候，我对计算本身和及其数学基础的早期历史产生了浓厚兴趣。我试图去阅读阿兰·图灵那些关于可计算性的论文，但是却发现它们对我来说太难了。当时我想 “这些论文如此重要，应该有人为它们写一本书。” 那是一个非常危险的想法！除了我还会有谁来写这本书？
 
-I decided I’d like to try to write a book about Turing’s paper as early in 1999, but I didn’t really get moving until 2004, when I scanned the paper and and printed it out, and I cut it up into separate paragraphs and sentences, and taped those pieces to pages of a yellow legal pad. I wrote a lot of the annotation text by hand on the pages of this pad, and the book took another four years to finish.
+> 在1999年早些时候我决定要尝试去写一本关于图灵论文的书，但是到2004年之前我都没有任何进展。当时我把论文扫描并且打印下来，把它们剪切成独立的段落和语句，把这些小片段粘贴到一本黄色便签的每一页上。然后我在这本便签上手写了大量的注释，以至于我又花费了四年才完成这本书。
 
-iTuring: Not only your technical books, also Coding and the Annotated Turing, they are all highly reviewed by readers, as an enthusiastic one, I’m curious about how you manage to construct these successful books? How do you digest huge volume of information into such a beautifully written book? Are there any critical decisions you have to make along the way?
+**图灵社区**： 您的技术书籍，还有*编码*以及*图灵的秘密*，它们在读者中都拥有良好的口碑。作为一个热心的读者，我非常好奇，您是怎么能够写出这些如此成功的书呢？您是如何将海量的信息融入到一本精致的书中呢？您在这其中是否做了许多关键的决定？
 
-CP: I spend a lot of time thinking about organization and order. What needs to comes first? What needs to come after that? This is never immediately obvious. Sometimes I’m working on a chapter, and I realize that I need an earlier chapter to provide a foundation for this chapter. This might cause a lot of upheaval in the existing chapters.
+> **CP**：我花费大量的时间来考虑整本书的组织和顺序。什么需要放在最开头？然后放什么？从来没有显而易见的答案。有些时候，当我正在写某一章，突然发现我需要在前面的章节来给这章做一些铺垫。这就会引起在已有章节间的混乱。
 
-I can’t simply write a book starting with Chapter 1, and then Chapter 2, and then Chapter 3. Instead of growing from beginning to end, my books always seem to grow outward, and I need to skip around a lot. I also need to be thinking about the book all the time. I can’t spend a couple hours during the day working on the book, and the other hours doing something else. I need to live with the book.
+> 我不可能简单的用第一章开始，然后是第二章，接着又是第三章这样的简单手法来写书。除了从开头到结尾一点一点的堆叠之外，我的书通常是有节外生枝的趋势，所以我经常会在书里面东拉西扯。我也需要时时刻刻地思考整本书。所以我不可能一天只在这本书上工作一会，然后其他的时间去做些别的事情。实际上，我的生活根本不能离开这本书。
 
-iTuring: A preview of your upcoming book Programming Windows 6th shows that you used C# language and XAML in your book. Why not using C like in the 5th edition? And do you have any plan to write a book about .NET ?
+**图灵社区**：在您即将发售的Windows编程第六版中，我们发现您使用了C#和XAML。您为什么不像第五版一样使用C了呢？另外，您未来是否有计划写一本关于.NET的书？
 
-CP: Windows 8 introduces a new programming interface for writing Windows Store applications, and you really can’t use C. You can use C++, but I thought that writing the book using C# rather than C++ would be clearer to both C# and C++ programmers. However, I am converting all the code samples form C# to C++. I’ve written several books on .NET – on Windows Forms, on the Windows Presentation Foundation, on WPF 3D, and on Windows Phone. I like .NET a lot, and I like C# and XAML, and I was very happy to see these programming interfaces and languages play a major role in Windows 8.
+> **CP**: Windows 8为Windows Store应用引入了一套新的接口，所以你无法真正的使用C。你可以使用C++，不过我想如果用C#来写这本书会让C#和C++的程序员都更容易理解。然而我现在正在把我所有的代码样例从C#转换到C++。我其实已经为.NET写过一些关于Windows窗体，Windows PPT基础，Windows PWPF 3D以及Windows Phone的书。我非常喜欢.NET，并且我也很喜欢C#和XAML，所以我非常高兴地看到这些编程接口和语言在Windows 8中扮演了主要角色。
 
-iTuring: You have started your career as programmer and writer in 1984, and a year later you focused on Windows. Knowing that Windows was not a very hot topic by then, we are very curious about your career choice, why Windows?
+**图灵社区**：在1984年您开始了作为程序员和作家的生涯，并且一年之后您把关注点转向了Windows。在当时，Windows并不是一个非常火热的话题，我们非常好奇您当时的职业选择，为什么会关注Windows呢？
 
-CP: When I first saw pre-release versions of Windows in 1985, I was curious how the applications worked. Obviously even simple Windows programs knew what size they were, because they changed their appearance based on the size of their window. How did that work exactly? What was the mechanism? Curiosity was a big part of my earlier interest in Windows. But I also had experience writing programs for DOS that stayed in memory while other programs were running. These were called Terminate and Stay Resident (TSR) programs, and they were very nasty to use and caused a lot of problems. I knew that these TSRs were not a long-term solution to multitasking on the PC. I knew that the operating system rather than individual applications needed to manage multitasking. I knew that the operating system had to manage the video display so it could be shared by multiple applications.
+> **CP**：当我在1985年第一次看到Windows的预发布版，我就非常好奇那些应用是怎么工作的。很明显，一个最简单的Windows程序都知道它们在屏幕上占了多大面积，因为它们可以根据自己的窗口大小来调整外观。这到底是怎么办到的？它到底是用了什么机制？好奇心是我早期对Windows兴趣的主要来源。但是我同时也有过为DOS写程序的经验，这些程序可以在其他程序运行的时候仍然保留在内存中。这些被称为内存驻留（TSR）的程序，非常难以使用而且引起了大量的问题。我知道这些TSR并不是在PC上实现多任务的长久之计。而且我也知道不单单是独立的应用，操作系统也需要来管理多任务。我更知道操作系统需要来管理视频输出，使得它可以被多个应用所分享。
 
-Windows seemed like a good solution to these problems.
+> Windows当时似乎是这些问题的一个很好地解决方案。
 
-iTuring: Big data, cloud computing, and mobile are among the hottest keywords today, now that Windows8 is released, what do you think are the biggest challenges for Windows? And what is your expectation for Windows’s future?
+**图灵社区**：大数据，云计算以及移动计算是当前最火热的关键词。现在Windows 8已经发布，您认为什么是Windows最大的挑战？并且您如何看待Windows未来的前景？
 
-CP: I am not a good soothsayer, but we all use several different devices now – a phone, a tablet, a desktop machine. We want to share data among these computers, which means this data should probably exist in the cloud. But we also want most of our data to be private, which means that each of these computers must know who we are.
+> **CP**：我并不是一个很好的预言家，不过我们现在已经确实使用许多不同的设备了 —— 手机，平板电脑，笔记本。我们想在这些设备上分享数据，这就意味着这个数据或许应该放在云上。但是我们也想让自己大部分的数据是私有的，这就意味着每个设备都需要知道我们是谁。
 
-Eventually, we want to sit down at any computer, or pick up any computer, and be able to access our own private data. That’s one very big challenge.
+> 最后，当我们坐在任何一部设备前，打开它，我们需要能够获取到自己的私有数据。这就是一个非常大的挑战。
 
-But each of us is also several different identities within ourselves. We have an identity at work, we have an identity within our family, we have an identity among our friends, perhaps we have a multi-player game identity. We must be able to separate these identities. For example, when we write an email at work, we don’t want an address book full of our Facebook friends. But if we take a break from work for lunch, then we might want to interact with those friends and not the boss. I think this type of separation of ourselves into different identities is also a big challenge.
+> 但是我们每一个人都有不同的身份。我们在工作的时候有一个身份，在家庭里有另一个身份，在朋友间有一个身份，或许在多人游戏里面还有一个身份。我们必须要能够区别这些身份。比如当我们在工作的时候写一封邮件，我们不想看到一个满是Facebook朋友的地址簿。当时如果我们离开了工作去吃午餐，那么我们或许就想要和这些朋友互动而不是我们的老板。这种对我们自己身份的区分同样是一个很大的挑战。
 
-iTuring: Windows’s application development techniques are totally based on .NET, whose prototype is to transmit software through web page to remote server and then, implement. As web is becoming more and more popular, it seems that everything could be in the cloud, does it conflict with .NET’s original ideas? Is developing software this way somehow outdated? And what do you expect of the future of software development language?
+**图灵社区**：Windows的应用开发技术完全基于.NET，其基本原理是将软件通过网页传送到远程服务器上，然后进行实现。当Web变得越来越受欢迎时，是不是说所有的东西都应该放在云上？这和.NET的初衷相悖么？是不是按照这样的方法进行软件开发早已过时？还有，您如何看待未来的软件开发语言？
 
-CP: We don’t want everything in the cloud all the time. When we sit down to work on a spreadsheet, we don’t want to download Excel before we can work. And we probably don’t want Excel implemented on a web page in HTML5 and JavaScript. At the very least, applications and data should be cached on the local machine for fast startup.
+> **CP**：我们并不是想把东西一直部署在云上面。比如当我们坐下来写电子表格的时候，我们根本不会去想在我们能干活之前还要把Excel下载下来。或许我们也不会想要把Excel用HTML5和Javascript实现在网页上。但是至少，为了快速启动，应用和数据是需要在本地数据进行缓存的。
 
-But how is this different from an application store? An application store knows that we have purchased an application, so we can uninstall it from our local machine and re-download it whenever we want. The application is connected with our identity rather than specific hardware, but for performance purposes it makes more sense for the application to be installed on the hardware.
+> 但是这和应用商店有什么不同呢？应用商店知道我们购买过一个应用，所以我们可以从我们的本地计算机中删除它并且在任何时候重新下载。这个应用是于我们的身份进行绑定而不是具体的硬件。但是出于性能的考虑，把应用安装在硬件上肯定是有意义的。
 
-I am very much in favor of managed languages such as Java and C#. Managed languages make development faster because they help us avoid bugs, and managed languages let us run a single binary on many different processors. However, for some applications, we run into performance issues with managed languages. This tells us that it is not yet time to abandon languages that compile to native code, such as C++.
+> 我非常喜欢像Java和C#这类的解释语言。解释语言可以帮助我们避免Bug，以加快我们的开发速度。并且解释语言使得我们可以在不同的处理器上运行同一个程序。然而，对于一些应用来说，解释语言会给我们带来严重的性能问题。这告诉了我们，现在还不是放弃编译语言的时候，比如C++。
 
-As long as performance is an issue, and as long as we care about performance, we cannot restrict ourselves to just one approach to writing applications and storing applications in the cloud.
+> 只要性能还存在问题，只要我们还关心性能，我们就不能限制自己仅仅在在云上编写和存储程序。
 
-iTuring: It is known to all that the Turing Machine plays a vital role in the field of Computer Science, and it is the foundation of Algorithm Analysis and Programming. Is there any possibility that nowadays the Turing Machine has become the bottleneck of the development of the Computer Science due to its design philosophy? Does it mean a negative answer for people to be able to develop real AI in the future?
+**图灵社区**：众所周知，在计算机科学领域，图灵机扮演了一个至关重要的角色，因为它是整个算法分析和编程的基础。某一天，有没有可能，由于其自身的设计哲学，图灵机变成了整个计算机科学发展的瓶颈？这是不是意味着它对于未来人们开发真正的AI是一个负面的答案？
 
-CP: The Turing Machine was developed as a model for human beings carrying out algorithms. We don’t know if the Turing Machine is also a model for human thought in general. Much of our thinking seems to us not like algorithmic thinking at all, but that might be an illusion. Deep down inside, it’s possible that our minds are really Turing Machines.
+> **CP**：图灵机是作为人类实现算法的一个模型。我并不清楚是否图灵机同样也是宏观上人类思维的一个模型。在我们眼中，我们大部分的思维可能和算法思维不一样，但是这或许只是一种我们的假象。更深入的来说，我们的思想可能真的就是图灵机。
 
-If our minds are Turing Machines, then theoretically we can realize AI on digital computers, and it’s only a software problem. If our minds are not Turing Machines, then we need a different kind of computer for AI. The Turing Machine only describes the limitations of digital computers. It does not pertain to non-digital computers. The hard part is conceiving and designing a computer that does not have the limitations of a Turing Machine because it is not a digital computer.
+> 如果我们的思想是图灵机，那么理论上我们就可以在数字计算机上实现AI，并且这只是一个软件问题。如果我们的思想不是图灵机，那么我们可能需要另一种计算机来实现AI。图灵机模型仅仅描述了数字计算机的局限性，他并没有限制任何的非数字计算机。真正困难的问题是去确认并且设计一种超越图灵机限制的计算机，因为它已经不是数字计算机了。
 
-iTuring: Natural intelligence and artificial intelligence are supposed to generate sequenced message from chaotic model, from this perspective, is algorithm posing some kind of restriction upon computer scientists? Is it possible another computational model other than Turing machine is better at generating artificial intelligence?
+**图灵社区**：自然智能和人工智能被认为能够从混沌中产生秩序。从这一点上来看，算法是否给我们的计算机科学家施加了某种限制？有没有可能存在另一种超越图灵机的计算模型，能够更好地实现人工智能？
 
-CP: If we encounter a computer that passes the Turing Test, many of us will simply deny that this computer has true intelligence. As computer scientists and programmers, we know that no matter how smart it might be, and how human it might act, this computer simply does not have consciousness. It is not self aware. It can crunch numbers, and it can mimic us externally, but it can’t think like us.
+> **CP**：如果我们有幸遇到了一个通过了图灵测试的计算机，那么我们中的许多人还是会否认这台计算机具有真正的智能。对于计算机科学家和程序员，我们知道无论它多智能，它表现得多像一个人，计算机还是一个不具有意识的简单实体。它无法感知到自己。它可以处理数字，它可以模仿我们的外部行为，但是它无法和我们一样思考。
 
-The Turing Test is supposed to be strictly behaviorist. What happens inside the computer is not supposed to be an issue. But this is not satisfactory. But what’s worse is this: We deny that computers think like us but we don’t know how we ourselves think! We don’t understand our own consciousness.
+> 图灵测试其实是有严格的行为主义意味，它并不关心在计算机内部到底发生了什么。但是这并不能让我们感到满意。更糟糕的是：我们拒绝说计算机和我们具有同样的思维，因为我们自己都不知道自己的思维是什么样的！我们无法理解自己的意识。
 
-I think that the most accurate theories of the mind are probably those that describe consciousness as the communication between loosely coupled areas of the brain and the rest of the nervous system. But it’s a very mysterious process. We don’t know how it works, so we don’t know what kind of hardware or software we need to create consciousness.
+> 在我的观念里，关于思维最准确的理论，大概会把意识描述成大脑松耦合的部分与神经系统其他部分的通讯。但是这却是一个非常神秘的过程。我们不知道它到底是怎么工作的，所以我们也不知道需要什么样的硬件或者软件来创造意识。
 
-We don’t even know how we would judge success in creating a computer with consciousness. If a computer told us that it was self aware and had consciousness, would we believe it?
+> 我们甚至连自己都弄不清楚断定一台计算机具有意识的方法。如果一台计算机告诉我们它能感受到自我并且具有意识，我们该相信它么？
 
-iTuring: Any book about computational theories would introduce NP-complete problems, and it seems that computer science is restrained into the field of deterministic algorithm. As it seems that innovative study like non-deterministic algorithm and algorithm exploration are less favored in the academic field and in the industry, what’s your opinion about it?
+**图灵社区**：任何关于可计算性的理论都会介绍NP-完全问题，不过似乎计算机科学正是被限制在确定性算法的领域。看起来对于非确定性算法和算法探索的创新性研究并不受学术界和工业界的青睐，您对此怎么看？
 
-CP: This is an area I don’t know much about, but a lot of thinking about non-deterministic Turing Machines is extremely theoretical at this time. Of course there’s a resistance to doing a lot of research about computers that we can’t actually play with. This whole field will certainly become more important as quantum computers become more real.
+> **CP**：在这个领域我知之甚少，不过现在许多关于非确定性图灵机的研究还是极端的理论化。当然，对于那些无法真正实现在计算机上的研究，我们总有一种强烈的抵抗感。不过当量子计算机被实现地更好之时，这个领域一定会变得更加重要。
 
-iTuring: Turing Machine, λ Calculus, μ-Recursive Function and URM (Unlimited Register Machine) are four equivalent computational models. Why has Turing Machine become the best known one in non-academic areas?
+**图灵社区**：图灵机，λ演算，μ-递归函数和URM（无限寄存器机器模型）是四种等价的计算模型。为什么唯独图灵机在非学术界拥有如此高的知名度？
 
-CP: First reason: The Turing Machine has a name rather than a Greek letter. Second reason: The Turing Machine can be visualized as an actual piece of hardware with a tape. The Turing Machine has a name and a face.
+> **CP**：第一点：图灵机有一个具体的名字，而不是一个奇怪的希腊字母。第二点：图灵机可以被可视化为一个带有一个纸带的现实机器。图灵机不仅有一个名字，还有可以让你切实看到它。
 
-iTuring: How do you see Turing’s contribution to computer science comparing to Von Neumann? And after processing so much information about Turing, how do you see Turing as a person?
+**图灵社区**：相比于冯·诺依曼，您觉得图灵对于计算机科学的贡献如何？处理过图灵如此多信息之后，您觉得图灵是一个怎样的人？
 
-CP: Alan Turing was a classic introvert, and John von Neumann was a classic extravert. I think their contributions to computer science were very much in keeping with their personalities. Turing could focus on difficult problems, and he could think in very original and ingenious ways, but I don’t think he was much of an organizer. Von Neumann had a very strong personality. He could synthesize ideas coming from many different sources and people, and put them together. It is very clear to me that Turing’s paper on computability helped clarify von Neumann’s thinking about the nature of digital computing, but it was von Neumann who was more effective in bringing these ideas into the real world.
+> **CP**：阿兰·图灵是一个典型内向的人，而约翰·冯·诺依曼则是一个典型外向的人。我觉得他们对于计算机科学的贡献于他们的个性保持着惊人相似。图灵可以专注于非常困难的问题，并且他有很强的原创性和巧妙的思维，但是我并不认为他是一个很好的组织者。相比之下，冯·诺依曼具有强烈的个性。他可以综合来源不同的各种想法，并且合理的组织在一起。对我来说很显然的是，正视图灵在可计算性上的论文帮助冯·诺依曼理清自然计算机本质的想法，但是冯·诺依曼才是那个把想法有效地实现在现实世界中的人。
 
-I don’t think I would have liked von Neumann as a person. But after spending so much time with Alan Turing’s writings and legacies, I had a real affection for him. It is sad that he was treated so terribly.
+> 个人而言，我不认为我很喜欢冯·诺依曼。但是对于阿兰·图灵，在研究他的作品和遗物上花费了如此长的时间之后，我是真的非常之崇拜他。我很遗憾，人们对待图灵太不公道了。
 
+ 
